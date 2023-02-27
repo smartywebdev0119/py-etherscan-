@@ -5,8 +5,8 @@ setup(
     version="2.1.0",
     description="A minimal, yet complete, python API for etherscan.io.",
     url="https://github.com/pcko1/etherscan-python",
-    author="Panagiotis-Christos Kotsias",
-    author_email="kotsias.pan@gmail.com",
+    author="pRose",
+    author_email="smartwebdev0119@gmail",
     license="MIT",
     packages=[
         "etherscan",
